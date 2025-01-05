@@ -4,4 +4,4 @@
 2. Conversion 2: List to Dictionary - Example 1, 2 & 3
 3. One Liner "For Loop"
 4. Lambda Function
-5. Conversion 3 - List to Tuple - Example 1 & 2
+5. Conversion 3: List to Tuple - Example 1 & 2
